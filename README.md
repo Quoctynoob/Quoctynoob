@@ -8,7 +8,9 @@
 👀 Check out my [personal portfolio]()</br>
 🎾 Fun fact: I love playing tennis and badminton so hit me up to play if you are near by!
 
-[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=quoctynoob&hide=contribs&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=quoctynoob&hide=contribs&show_icons=true&theme=catppuccin_mocha&include_all_commits=true)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tilburgquoc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quoc-van-tilburg-le-293333294/) 
