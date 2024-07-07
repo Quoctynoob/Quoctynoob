@@ -8,4 +8,4 @@
 👀 Check out my [personal portfolio]()</br>
 🎾 Fun fact: I love playing tennis and badminton so hit me up to play if you are near by!
 
-[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=quoctynoob)](https://github.com/anuraghazra/github-readme-stats)
+[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=quoctynoob&hide=contribs&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
