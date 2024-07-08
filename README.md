@@ -11,6 +11,7 @@
 # 📊 GitHub Stats:
 ![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=quoctynoob&hide=contribs&show_icons=true&theme=catppuccin_mocha&include_all_commits=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=quoctynoob&theme=catppuccin_mocha&hide_border=true)<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tilburgquoc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quoc-van-tilburg-le-293333294/) 
