@@ -6,7 +6,7 @@
 💭 Currently diving deeply into <b>Java</b>, <b>TypeScript</b>, <b>React</b>, and I am actively applying these skills to my</br>
 ongoing project while exploring many other exciting areas.</br>
 📖 Reading and expanding my knowledge about <b>Structure and Application of Microcomputers</b>. </br>
-👀 Check out my [personal portfolio]() when I'm done, and be sure to look at another highlight project of mine as well.</br>
+👀 Check out my [personal portfolio](), and be sure to look at other highlight project of mine as well.</br>
 🎾 Fun fact: I love playing tennis and badminton so hit me up to play if you are near by!
 
 # 📊 GitHub Stats:
