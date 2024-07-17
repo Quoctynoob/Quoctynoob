@@ -2,11 +2,11 @@
 
 # <a href="https://github.com/P541M"><img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> Hello, I'm Quoc, but you can call me Leon! 
 
-🎓 Currently studying computer science at the [University of Guelph](https://www.uoguelph.ca) </br>
+🎓 Currently a Second-Year student studying Computer Science at the [University of Guelph](https://www.uoguelph.ca).</br>
 💭 Currently diving deeply into <b>Java</b>, <b>TypeScript</b>, <b>React</b>, and I am actively applying these skills to my</br>
 ongoing project while exploring many other exciting areas.</br>
-📖 Reading and expanding my knowledge about Structure and Application of Microcomputers </br>
-👀 Check out my [personal portfolio]() when I'm done</br>
+📖 Reading and expanding my knowledge about <b>Structure and Application of Microcomputers</b>. </br>
+👀 Check out my [personal portfolio]() when I'm done, and be sure to look at another highlight project of mine as well.</br>
 🎾 Fun fact: I love playing tennis and badminton so hit me up to play if you are near by!
 
 # 📊 GitHub Stats:
