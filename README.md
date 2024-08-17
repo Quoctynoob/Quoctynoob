@@ -7,7 +7,7 @@
 ongoing project while exploring many other exciting areas.</br>
 👨🏻‍💻 Current Project: <b>Portfolio</b> </br>
 📖 Reading and expanding my knowledge about <b>Structure and Application of Microcomputers</b>. </br>
-👀 Check out my [personal portfolio](), and be sure to look at other highlight project of mine as well.</br>
+👀 Check out my [personal portfolio](https://portfolio-quoctynoobs-projects.vercel.app/), and be sure to look at other highlight project of mine as well.</br>
 🎾 Fun fact: I love playing tennis and badminton so hit me up to play if you are near by!
 
 # 📊 GitHub Stats:
