@@ -4,7 +4,7 @@
 # 👋 Hello, I'm Quoc, but you can call me Leon! 
 
 🎓 Currently a Second-Year student studying Computer Science at the [University of Guelph](https://www.uoguelph.ca).</br>
-👨🏻‍💻 Current Project: <b>2D Game</b> </br>
+👨🏻‍💻 Current Project: <b>School Assignment</b> </br>
 👀 Check out my [personal portfolio](https://portfolio-quoctynoobs-projects.vercel.app/), and be sure to look at other highlight project of mine as well.</br>
 🎾 Fun fact: I love playing tennis and badminton so hit me up to play if you are near by!
 
