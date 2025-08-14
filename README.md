@@ -5,7 +5,7 @@
 
 🎓 Currently a Third-Year student studying Computer Science at the [University of Guelph](https://www.uoguelph.ca).</br>
 👀 Check out my [personal portfolio](https://www.quocty.com), and be sure to look at other highlight project of mine as well.</br>
-🎾 Fun fact: I love playing tennis and badminton so hit me up to play if you are near by!
+🔗 Connect me at: quoc@uoguelph.ca
 
 <!--# 📊 GitHub Stats:
 ![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=quoctynoob&hide=contribs&show_icons=true&theme=catppuccin_mocha&include_all_commits=true)-->
