@@ -4,8 +4,8 @@
 # 👋 Hello, I'm Quoc, but you can call me Leon! 
 
 🎓 Currently a Third-Year student studying Computer Science at the [University of Guelph](https://www.uoguelph.ca).</br>
-👀 Check out my [personal portfolio](https://www.quocty.com), and be sure to look at other highlight project of mine as well.</br>
-🔗 Connect me at: quoc@uoguelph.ca
+👀 Check out my [personal portfolio](https://www.quocty.com).</br>
+🔗 Connect me at: [Quoc Le](https://www.linkedin.com/in/quoc-le-293333294/) or quoc@uoguelph.ca
 
 <!--# 📊 GitHub Stats:
 ![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=quoctynoob&hide=contribs&show_icons=true&theme=catppuccin_mocha&include_all_commits=true)-->
